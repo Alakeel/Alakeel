@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Alakeel
-- 👀 I’m interested in Software Dev and Testing
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any project in JS/C++
-- 📫 How to reach me ...
+👋 Hi, I’m @Alakeel
 
 <!---
 Alakeel/Alakeel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
