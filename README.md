@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A full stack developer and backend engineer from Saudi</h3>
+<h3 align="center">A full stack developer and backend software engineer from Saudi</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakeel&label=Profile%20views&color=0e75b6&style=flat" alt="alakeel" /> </p>
 
