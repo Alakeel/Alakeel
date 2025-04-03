@@ -1,10 +1,7 @@
-<h1 align="center">Welcome 👋, My name Abdullah</h1>
-<h3 align="center">A Software Engineer from Riyadh</h3>
+<h1 align="center">Welcome 👋</h1>
+<h3 align="center">I'm Abdullah, a Software Engineer from Riyadh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakeel&label=Profile%20views&color=0e75b6&style=flat" alt="alakeel" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alakeel" alt="alakeel" /></a> </p>
-
 
 </p>
 
