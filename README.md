@@ -1,12 +1,18 @@
-<h1 align="center">Welcome 👋</h1>
-<h3 align="center">I'm Abdullah, a Software Engineer from Riyadh</h3>
-
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=alakeel&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+
+<h1>Welcome 👋</h1>
+
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=0AFF0A&width=435&lines=%3E+I'm+Abdullah+Alakeel;Software+Engineer+from+Riyadh;Building+Cool+Stuff+🚀" alt="Typing SVG" />
+</p>
+
+
+
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
   </a>
@@ -47,3 +53,4 @@
 <p align="center">
   <a href="https://alakeel.net/" target="_blank"><strong>🌍 Visit My Website</strong></a>
 </p>
+
